@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likunaswain&show_icons=true&theme=radical" alt="Likuna's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Likuna06&show_icons=true&theme=radical" alt="Likuna's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=likunaswain&theme=radical" alt="GitHub Streak"/>
 </p>
 
@@ -44,7 +44,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=likunaswain&theme=radical&row=2&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Likuna06&theme=radical&row=2&column=4" alt="Trophies"/>
 </p>
 
 ---
